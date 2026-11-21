@@ -1,0 +1,5 @@
+{
+  "name": "usage-status",
+  "owner": { "name": "hoonmin2-code" },
+  "plugins": [{ "name": "usage-status", "source": "./" }]
+}
